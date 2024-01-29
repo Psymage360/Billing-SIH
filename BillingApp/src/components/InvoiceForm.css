@@ -1,0 +1,22 @@
+/* src/components/InvoiceForm.css */
+.center-table {
+  margin-left: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.invoice-table {
+  border-collapse: collapse;
+  width: 80%;
+}
+
+.invoice-table th,
+.invoice-table td {
+  border: 1px solid #4345c7;
+  padding: 8px;
+  text-align: center;
+}
+.invoice-table .remove-button {
+  border: none;
+}

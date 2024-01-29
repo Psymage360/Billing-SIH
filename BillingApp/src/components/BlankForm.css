@@ -1,0 +1,12 @@
+.centered-item {
+  margin-bottom: 8px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+  width: 40vw;
+}
+ion-fab {
+  margin: var(--ion-safe-area-top, 0);
+}

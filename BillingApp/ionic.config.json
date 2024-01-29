@@ -1,0 +1,7 @@
+{
+  "name": "BillingApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
